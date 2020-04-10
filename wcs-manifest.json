@@ -1,0 +1,31 @@
+{
+  "title": "webcomp-pages-contents",
+  "description": "Component for listing standard text-based contents.",
+  "descriptionAbstract": "Text component",
+  "license": "AGPL-3.0",
+  "repositoryUrl": "https://github.com/noi-techpark/webcomp-pages-contents",
+  "authors": [
+    {
+      "name": "NOI",
+      "email": "info@noi.bz.it",
+      "organization": "NOI S.p.A",
+      "organizationUrl": "https://noi.bz.it"
+    },
+    {
+      "name": "Daniel Rampanelli",
+      "email": "hello@danielrampanelli.com"
+    }
+  ],
+  "image": null,
+  "searchTags": ["pages"],
+  "dist": {
+    "basePath": "dist",
+    "files": [
+      "pages-contents.min.js"
+    ]
+  },
+  "configuration": {
+    "tagName": "pages-contents",
+    "options": []
+  }
+}
